@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075794416902",
+    "project_id": "obre-app",
+    "storage_bucket": "obre-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075794416902:android:8210d2e356ce277acc7a87",
+        "android_client_info": {
+          "package_name": "com.obre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY20nlcblPwQPL0zMKJTIJ6OveFzm_khI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
